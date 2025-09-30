@@ -1,5 +1,8 @@
+.vscode/
+
 data/
 output/
+__pycache__/
 
 *.pyc
 *.so
